@@ -1,0 +1,7 @@
+org\example\EverySteps.class
+org\example\RegisterSteps.class
+org\example\RunCucumberTest.class
+org\example\NewsLetterSteps.class
+org\example\SearchSteps.class
+org\example\ContactSteps.class
+org\example\StepDefinitions.class
